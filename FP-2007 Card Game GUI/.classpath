@@ -6,6 +6,7 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="images"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/FP-2007 Card Game Model"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
